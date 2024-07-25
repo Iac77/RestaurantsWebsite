@@ -1,0 +1,24 @@
+[
+    {
+        "name": "La Berninetta",
+        "address": "Via Pietro Cavallini, 14, 00193 Roma RM, Italy",
+        "cuisine": "Roman Italian",
+        "website": "https://berninetta.com/it/homepage/",
+        "description": "Amazing food, great location, awesome prices."
+      },
+      {
+        "name": "6342 A Le Tole Spaghetteria Pizzeria",
+        "address": "Barbaria de le Tole, 6342, 30122 Venezia VE, Italy",
+        "cuisine": "Italian",
+        "website": "https://www.6342aletole.it/menu-spaghetteria/",
+        "description": "Extraordinary fresh pasta made daily with live open kitchen."
+      },
+      {
+        "name": "Spaten Lounge Restaurant Since 1962",
+        "address": "Viale America, 73/79, 00144 Roma RM, Italy",
+        "cuisine": "Roman Italian",
+        "website": "http://www.spatenloungerestaurant.com/",
+        "description": "Historic pizza slices in EUR Rome."
+      }
+  ]
+  
