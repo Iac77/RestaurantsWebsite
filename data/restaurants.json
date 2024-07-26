@@ -1,24 +1,34 @@
 [
-    {
-        "name": "La Berninetta",
-        "address": "Via Pietro Cavallini, 14, 00193 Roma RM, Italy",
-        "cuisine": "Roman Italian",
-        "website": "https://berninetta.com/it/homepage/",
-        "description": "Amazing food, great location, awesome prices."
-      },
-      {
-        "name": "6342 A Le Tole Spaghetteria Pizzeria",
-        "address": "Barbaria de le Tole, 6342, 30122 Venezia VE, Italy",
-        "cuisine": "Italian",
-        "website": "https://www.6342aletole.it/menu-spaghetteria/",
-        "description": "Extraordinary fresh pasta made daily with live open kitchen."
-      },
-      {
-        "name": "Spaten Lounge Restaurant Since 1962",
-        "address": "Viale America, 73/79, 00144 Roma RM, Italy",
-        "cuisine": "Roman Italian",
-        "website": "http://www.spatenloungerestaurant.com/",
-        "description": "Historic pizza slices in EUR Rome."
-      }
-  ]
-  
+  {
+    "id": "r1",
+    "name": "La Berninetta",
+    "address": "Via Pietro Cavallini, 14, 00193 Roma RM, Italy",
+    "cuisine": "Roman Italian",
+    "website": "https://berninetta.com/it/homepage/",
+    "description": "Amazing food, great location, awesome prices."
+  },
+  {
+    "id": "r2",
+    "name": "6342 A Le Tole Spaghetteria Pizzeria",
+    "address": "Barbaria de le Tole, 6342, 30122 Venezia VE, Italy",
+    "cuisine": "Italian",
+    "website": "https://www.6342aletole.it/menu-spaghetteria/",
+    "description": "Extraordinary fresh pasta made daily with live open kitchen."
+  },
+  {
+    "id": "r3",
+    "name": "Spaten Lounge Restaurant Since 1962",
+    "address": "Viale America, 73/79, 00144 Roma RM, Italy",
+    "cuisine": "Roman Italian",
+    "website": "http://www.spatenloungerestaurant.com/",
+    "description": "Historic pizza slices in EUR Rome."
+  },
+  {
+    "name": "Le Royal Cambronne",
+    "address": "2 Pl. Cambronne, 75015 Paris",
+    "cuisine": "French",
+    "website": "https://www.tripadvisor.com/Restaurant_Review-g187147-d3327597-Reviews-or20-Le_Royal_Cambronne-Paris_Ile_de_France.html",
+    "description": "Nice French brasserie, reasonably priced, close to the Eiffel Tower and dog friendly.",
+    "id": "b3ac80f7-2992-43ac-8d6e-66ef09f016b0"
+  }
+]
